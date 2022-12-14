@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@fulv 
-fulv
-/
-mermaid-demo
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-mermaid-demo/.github/workflows/build-deploy.yml
-@fulv
-fulv Update build-deploy.yml
-Latest commit 2e8dde1 last month
- History
- 1 contributor
-56 lines (51 sloc)  1.59 KB
-
 # This is a basic workflow to help you get started with Actions
 
 name: Convert And Deploy Mermaid Diagrams In Markdown To Github Pages
