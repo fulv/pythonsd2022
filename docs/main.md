@@ -125,7 +125,7 @@ And finally restart postgres.
 
 ## Usage
 
-Reference: https://www.postgresql.org/docs/current/pgstatstatements.html
+Reference: [F.32. pg_stat_statements](https://www.postgresql.org/docs/current/pgstatstatements.html)
 
 `pg_stat_statements` has a bunch of configuration parameters, but the defaults are fine for our purposes.  
 It also provides dozens of columns with lots of details for each query.  
