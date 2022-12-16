@@ -9,4 +9,4 @@ https://www.sandiegopython.org/
 
 [Slides of my lightning talk](https://docs.google.com/presentation/d/1sCxPUFwvkFNa06gNH-p9_-gKR8Dw9qrBiaUJXzyXZ8Y/edit?usp=sharing)
 
-[Supporting Blog Post](https://fulv.github.io/pythonsd2022/main)
+[Supporting Blog Post](https://fulv.github.io/pythonsd2022/docs/main)
